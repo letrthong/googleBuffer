@@ -47,4 +47,7 @@ bool SerializeToString(string* output) const;: serializes the message and stores
 bool ParseFromString(const string& data);: parses a message from the given string.
 bool SerializeToOstream(ostream* output) const;: writes the message to the given C++ ostream.
 bool ParseFromIstream(istream* input);: parses a message from the given C++ istream.
+
+
+https://developers.google.com/protocol-buffers/docs/proto
 */
