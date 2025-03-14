@@ -8,3 +8,5 @@ https://protobuf.dev/reference/python/python-generated/
 
 # Repo
 https://github.com/protocolbuffers/protobuf
+
+# https://protobuf.dev/installation/ 
